@@ -13,7 +13,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 ## Authors
 
 * Giang Hải Anh
-  * Write something about yourself here
+  * Framgia Inc. - Division 3 - Section 2 - Group 1 - PM 
 * Lê Đắc Phong :
   * Write something about yourself here
 * Nguyễn Văn Tâm :
