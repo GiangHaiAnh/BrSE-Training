@@ -15,7 +15,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 * Giang Hải Anh
   * Write something about yourself here
 * Lê Đắc Phong :
-  * Write something about yourself here
+  * Đẹp trai có gì sai
 * Nguyễn Văn Tâm :
   * Write something about yourself here
 * Huỳnh Thị Trúc Uyên :
