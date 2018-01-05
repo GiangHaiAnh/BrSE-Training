@@ -13,13 +13,13 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 ## Authors
 
 * Giang Hải Anh
-  * Write something about yourself here
+  * Framgia Inc. - Division 3 - Section 2 - Group 1 - PM 
 * Lê Đắc Phong :
-  * Write something about yourself here
+  * Đẹp trai có gì sai
 * Nguyễn Văn Tâm :
-  * Write something about yourself here
+  * Hello world, My name is Tam, working for Framgia DN.
 * Huỳnh Thị Trúc Uyên :
-  * Write something about yourself here
+  * コミュニケーターのウエンです。よろしくお願いします。
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
