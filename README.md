@@ -1,4 +1,4 @@
-# Project BrSE Training Course
+﻿# Project BrSE Training Course
 
 Be professional 
 
@@ -19,7 +19,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 * Nguyễn Văn Tâm :
   * Hello world, My name is Tam, working for Framgia DN.
 * Huỳnh Thị Trúc Uyên :
-  * Write something about yourself here
+  * コミュニケーターのウエンです。よろしくお願いします。
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
