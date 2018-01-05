@@ -17,7 +17,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 * Lê Đắc Phong :
   * Write something about yourself here
 * Nguyễn Văn Tâm :
-  * Write something about yourself here
+  * Hello world, My name is Tam, working for Framgia DN.
 * Huỳnh Thị Trúc Uyên :
   * Write something about yourself here
 
