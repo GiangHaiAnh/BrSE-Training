@@ -15,7 +15,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 * Giang Hải Anh
   * Framgia Inc. - Division 3 - Section 2 - Group 1 - PM 
 * Lê Đắc Phong :
-  * Write something about yourself here
+  * Đẹp trai có gì sai
 * Nguyễn Văn Tâm :
   * Hello world, My name is Tam, working for Framgia DN.
 * Huỳnh Thị Trúc Uyên :
